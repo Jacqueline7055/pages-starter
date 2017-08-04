@@ -1,8 +1,8 @@
 ---
-layout: 
+layout: default
 title: sohacker
 quote: working hard is to success
-cite: 
+cite: jackie m. zuniga
 ---
 
 This example is just meant to get you started and show you a little of what's
