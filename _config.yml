@@ -18,10 +18,9 @@ description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/pages-starter" # the subpath of your site
 url: "https://chesshacker.github.io"
-email: steve@ortizaggies.com
-github_username:  chesshacker
-linkedin_username: chesshacker
-twitter_username: chesshacker
+email: nanazuniga2014@gmail.com
+github_username: jacqueline7055
+
 
 # Build settings
 markdown: kramdown
